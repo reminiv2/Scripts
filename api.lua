@@ -1,5 +1,5 @@
 -- auto updater
-getgenv().api = true
+getgenv().api = false
 
 if getgenv().api == true then
 -- stats: working
