@@ -9,7 +9,7 @@ local SDIKjFNIEJSMNFdiks = {
     "9596EF9B-5EE6-48A3-9588-D0739B851282", -- ter
     "CCE15A56-3503-4FF1-A373-6A45FE99BCB4", -- Far
     "48C03CA4-CEB7-41D1-81D5-A7EA2AEE8B93", -- saturn
-    "",
+    "26E717A5-3ED2-4B51-939C-BA20DC74028B", -- shaan (tester)
     "",
     "",
     "",
