@@ -1,4 +1,4 @@
-getgenv().auto = false
+getgenv().auto = true
 
 if getgenv().auto == false then
 -----------------------------(script works)
