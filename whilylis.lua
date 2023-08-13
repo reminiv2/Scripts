@@ -8,12 +8,7 @@ local SDIKjFNIEJSMNFdiks = {
     "F3D680D9-216F-4882-8BCF-AC0DFC5438DF", -- YK
     "9596EF9B-5EE6-48A3-9588-D0739B851282", -- ter
     "CCE15A56-3503-4FF1-A373-6A45FE99BCB4", -- Far
-    "", -- yeat (blacklisted, 84A7379B-2B81-4F4C-B619-8F645A832599)
-    "26E717A5-3ED2-4B51-939C-BA20DC74028B", -- shaan (tester)
-    "B82972FB-2DA4-4928-95FB-2A21808F9133", -- kytro
-    "",
-    "",
-    "",
+    "83935799-9E42-4BA0-821E-9A5C851509A5", -- kizuliva (tester)
     "",
     "",
     "",
