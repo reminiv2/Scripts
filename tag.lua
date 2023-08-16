@@ -15,20 +15,6 @@ end)
 end
 
 
-repeat wait()
-if game.Players:FindFirstChild("iiiiiii1iiiii1111iii") then
-if game.Players.LocalPlayer.Character:FindFirstChild("Humanoid") then
-game.Players["iiiiiii1iiiii1111iii"].Character.Humanoid.DisplayName = ('[📜] ' .. game.Players["iiiiiii1iiiii1111iii"].DisplayName)
-end
-end
-until game.Players:FindFirstChild("iiiiiii1iiiii1111iii")
-if game.Players:FindFirstChild("iiiiiii1iiiii1111iii") then
-local Player = game.Players["iiiiiii1iiiii1111iii"]
-game.Players.PlayerAdded:connect(function(Player)
-game.Players["iiiiiii1iiiii1111iii"].Character.Humanoid.DisplayName = ('[📜] ' .. game.Players["iiiiiii1iiiii1111iii"].DisplayName)
-end)
-end
-
 
 repeat wait()
 if game.Players:FindFirstChild("rfrwewewewe") then
