@@ -28,3 +28,18 @@ game.Players.PlayerAdded:connect(function(Player)
 game.Players["iiiiiii1iiiii1111iii"].Character.Humanoid.DisplayName = ('[📜] ' .. game.Players["iiiiiii1iiiii1111iii"].DisplayName)
 end)
 end
+
+
+repeat wait()
+if game.Players:FindFirstChild("rfrwewewewe") then
+if game.Players.LocalPlayer.Character:FindFirstChild("Humanoid") then
+game.Players["rfrwewewewe"].Character.Humanoid.DisplayName = ('[📜] ' .. game.Players["rfrwewewewe"].DisplayName)
+end
+end
+until game.Players:FindFirstChild("rfrwewewewe")
+if game.Players:FindFirstChild("rfrwewewewe") then
+local Player = game.Players["rfrwewewewe"]
+game.Players.PlayerAdded:connect(function(Player)
+game.Players["rfrwewewewe"].Character.Humanoid.DisplayName = ('[📜] ' .. game.Players["rfrwewewewe"].DisplayName)
+end)
+end
