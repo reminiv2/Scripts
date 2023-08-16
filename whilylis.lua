@@ -11,7 +11,7 @@ local SDIKjFNIEJSMNFdiks = {
     "83935799-9E42-4BA0-821E-9A5C851509A5", -- kizuliva (tester)
     "AE1B70D4-4E81-44AB-9DB9-6B8220ECD80B", -- 5.iz (buyer)
     "67A66F6F-BAB8-41A0-943E-71C9236F5CC9", -- blade (buyer)
-    "",
+    "D66B2B4B-E023-4811-A561-C8A9DE8469B7", -- ssaint (tester)
     "",
     ""
 }
