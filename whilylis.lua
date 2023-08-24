@@ -10,9 +10,7 @@ local SDIKjFNIEJSMNFdiks = {
     "AE1B70D4-4E81-44AB-9DB9-6B8220ECD80B", -- 5.iz (buyer)
     "67A66F6F-BAB8-41A0-943E-71C9236F5CC9", -- blade (buyer)
     "2C94A55C-665E-4ACB-8EEB-034050DCD80D", -- Slpher (buyer)
-    "20A421CB-27B7-4D5A-A697-600127B7A38B", -- veerserer
-    "936C4012-C0A4-4751-8F48-F5A096B6A13D", -- yaduvir (buyer)
-    "936C4012-C0A4-4751-8F48-F5A096B6A13D" -- choppa (buyer|account)
+    "282e86ca-29e7-4a66-937e-dd2a108a28d8" -- choppa (buyer|account)
 }
 if SDIKjFNIEJSMNFdiks[table.find(SDIKjFNIEJSMNFdiks,game:GetService("RbxAnalyticsService"):GetClientId())] == game:GetService("RbxAnalyticsService"):GetClientId() then
     
