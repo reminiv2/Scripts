@@ -1,6 +1,6 @@
 local ejfgbdjs = game.Players
 local SDIKjFNIEJSMNFdiks = {
-    "52B78BF5-DBBF-412F-8263-B08285C3E8B9" -- trianed kitten (gfx)
+    "52B78BF5-DBBF-412F-8263-B08285C3E8B9", -- trianed kitten (gfx)
     "C2EE9A0D-AB0B-4271-B50C-4DF21EA92881", -- trueonezz
     "29377DD8-B8B3-40CB-ABA0-BA4E23609EB4", -- dexx
     "D874D764-C1A6-40C9-A618-3CC7FD9045FE", -- jakie
